@@ -1,1 +1,1 @@
-Android Studioで開き、実行してください。
+Tamakorogasiソースファイル.zipを展開し、Android Studioで実行してください。
