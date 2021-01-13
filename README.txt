@@ -1,0 +1,1 @@
+Android Studioで開き、実行してください。
